@@ -8,9 +8,9 @@ function Menu() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
-            <NavLink to="/Accueil">Accueil</NavLink>
-            <NavLink to="/Service">Service</NavLink>
-            <NavLink to="/Contact">Contact</NavLink>
+            <Nav.Link href="/Accueil">Accueil</Nav.Link>
+            <Nav.Link href="/Service">Service</Nav.Link>
+            <Nav.Link href="/Contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
