@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/http//:serge-cpu.github.io/GagoumConsulting/precache-manifest.4c612195599ea6351334da55270a445f.js"
+  "/https//:serge-cpu.github.io/GagoumConsulting/precache-manifest.0328b70fdaee5a5644ca4b9a39118f45.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/http//:serge-cpu.github.io/GagoumConsulting/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/https//:serge-cpu.github.io/GagoumConsulting/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
