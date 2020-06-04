@@ -12,10 +12,9 @@ import './App.css';
 function App() {
   return (
     <React.Fragment>
+      <BrowserRouter>
       <Menu />
       <Imagenavi />
-      <BrowserRouter>
-      
           <Switch>
             <Route path="/Accueil" component={Accueil}/>
             <Route path="/Service" component={Service}/>

@@ -1,5 +1,5 @@
 import React from 'react'
-//import {Link, NavLink} from 'react-router-dom'
+import {Link, NavLink} from 'react-router-dom'
 import {Nav,Navbar} from "react-bootstrap"
 function Menu() {
     return (
@@ -8,9 +8,9 @@ function Menu() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
-            <Nav.Link href="/Accueil">Accueil</Nav.Link>
-            <Nav.Link href="/Service">Service</Nav.Link>
-            <Nav.Link href="/Contact">Contact</Nav.Link>
+            <NavLink to="/Accueil">Accueil</NavLink>
+            <NavLink to="/Service">Service</NavLink>
+            <NavLink to="/Contact">Contact</NavLink>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
