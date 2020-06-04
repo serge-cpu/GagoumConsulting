@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/GagoumConsulting/static/css/main.8567be2c.chunk.css",
-    "main.js": "/GagoumConsulting/static/js/main.2d16fe7e.chunk.js",
-    "main.js.map": "/GagoumConsulting/static/js/main.2d16fe7e.chunk.js.map",
+    "main.js": "/GagoumConsulting/static/js/main.a2290503.chunk.js",
+    "main.js.map": "/GagoumConsulting/static/js/main.a2290503.chunk.js.map",
     "runtime-main.js": "/GagoumConsulting/static/js/runtime-main.d83c8687.js",
     "runtime-main.js.map": "/GagoumConsulting/static/js/runtime-main.d83c8687.js.map",
     "static/css/2.af3c1da9.chunk.css": "/GagoumConsulting/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bfa9c346.chunk.js": "/GagoumConsulting/static/js/2.bfa9c346.chunk.js",
-    "static/js/2.bfa9c346.chunk.js.map": "/GagoumConsulting/static/js/2.bfa9c346.chunk.js.map",
+    "static/js/2.3bb22289.chunk.js": "/GagoumConsulting/static/js/2.3bb22289.chunk.js",
+    "static/js/2.3bb22289.chunk.js.map": "/GagoumConsulting/static/js/2.3bb22289.chunk.js.map",
     "index.html": "/GagoumConsulting/index.html",
-    "precache-manifest.8faf398e4f43dca32f66685f3c9ec8af.js": "/GagoumConsulting/precache-manifest.8faf398e4f43dca32f66685f3c9ec8af.js",
+    "precache-manifest.22a3c47d66ac17b18d63a26b675650f1.js": "/GagoumConsulting/precache-manifest.22a3c47d66ac17b18d63a26b675650f1.js",
     "service-worker.js": "/GagoumConsulting/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/GagoumConsulting/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.8567be2c.chunk.css.map": "/GagoumConsulting/static/css/main.8567be2c.chunk.css.map",
-    "static/js/2.bfa9c346.chunk.js.LICENSE.txt": "/GagoumConsulting/static/js/2.bfa9c346.chunk.js.LICENSE.txt",
+    "static/js/2.3bb22289.chunk.js.LICENSE.txt": "/GagoumConsulting/static/js/2.3bb22289.chunk.js.LICENSE.txt",
     "static/media/Comptable.jpg": "/GagoumConsulting/static/media/Comptable.57eead7a.jpg",
     "static/media/microsoft.jpg": "/GagoumConsulting/static/media/microsoft.916cb547.jpg",
     "static/media/sarri.jpg": "/GagoumConsulting/static/media/sarri.d5bc58e7.jpg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.d83c8687.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.bfa9c346.chunk.js",
+    "static/js/2.3bb22289.chunk.js",
     "static/css/main.8567be2c.chunk.css",
-    "static/js/main.2d16fe7e.chunk.js"
+    "static/js/main.a2290503.chunk.js"
   ]
 }
