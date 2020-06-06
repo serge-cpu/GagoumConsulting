@@ -1,12 +1,13 @@
 import React from 'react'
 
-const Conseil = () => {
+
+const Contact = () => {
 
     return (
         <div className="container">
-            <h1>Conseil</h1>
+            <h1>Contact</h1>
         </div>
     )
 }
 
-export default Conseil;
+export default Contact;
