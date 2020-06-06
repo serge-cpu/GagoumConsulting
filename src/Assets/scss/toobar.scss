@@ -46,7 +46,7 @@ nav.responsive-toolbar{
 @media screen and (max-width: 759px){
     nav.responsive-toolbar{
         ul{
-            height: 100%;
+            height: 0%;
             width: 100px;
             position: fixed;
             left: -200px;
@@ -56,6 +56,7 @@ nav.responsive-toolbar{
             transition: 300ms ease all;
             &.active{
                 left: -20px;
+                
             }
 
             figure{
@@ -67,14 +68,15 @@ nav.responsive-toolbar{
                 width: 100%;
                 padding-left:0 ;
                 padding-right: 0;
-                
+                background-color: LightCyan; 
+                           
             }
             a{
                 flex-direction: row;
                 justify-content: space-between;
                 margin-left: 20px;
                 margin-right:10px ;
-                
+                 
             }
         }
     }
