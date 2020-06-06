@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "376a48e2e56a644cede7442e2b342965",
+    "revision": "f2dead48f04461ccf45613a1812ec7ee",
     "url": "/GagoumConsulting/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GagoumConsulting/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9ba54a5e1cf3eb82ee89",
-    "url": "/GagoumConsulting/static/css/main.a4987c6c.chunk.css"
+    "revision": "5ef96e6b8d8f3e478c67",
+    "url": "/GagoumConsulting/static/css/main.616d13c7.chunk.css"
   },
   {
     "revision": "6dce1a14b6bfa15bf55c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GagoumConsulting/static/js/2.5663f500.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ba54a5e1cf3eb82ee89",
-    "url": "/GagoumConsulting/static/js/main.fff4b24d.chunk.js"
+    "revision": "5ef96e6b8d8f3e478c67",
+    "url": "/GagoumConsulting/static/js/main.fef1bdc6.chunk.js"
   },
   {
     "revision": "a24312280f8bbd535182",
