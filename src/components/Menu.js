@@ -13,8 +13,6 @@ const Colum =   styled.h6`
      
     }   
 `;
-
-
 function Menu({navLinks, background,hoverBackground,linkColor}) {
   
   const [hoverIndex, setHoverIndex] = useState(-1)

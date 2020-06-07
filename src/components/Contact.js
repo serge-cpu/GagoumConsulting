@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
     }
     body{
         font-family: Arial,Helvetica,sans-serif;
-        background: linear-gradient(to Bottom,#f05053,#e1eec3);
+    
         margin:0;
         height:100%;
         color:#555;
@@ -32,7 +32,7 @@ const StyleForm = styled.form`
     margin-right:auto;
     padding:10px;
     background-color:#fff;
-    border-raduis:10px;
+    border-radius:10px;
     box-sizing:border-box;
     box-shadow:0px 0px 20px 0px rgba(0,0,0,0.2);
 `;
@@ -57,7 +57,7 @@ border-radius: 3px;
 
 const StyleButon = styled.button`
 /* Adapt the colors based on primary prop */
-?background: ${props => props.primary ? "palevioletred" : "white"};
+background: ${props => props.primary ? "palevioletred" : "white"};
 color: ${props => props.primary ? "white" : "palevioletred"};
 font-size: 1em;
 margin: 1em;

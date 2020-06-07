@@ -11,6 +11,7 @@ import Imagenavi from './components/Imagenavi'
 import './App.css';
 
 
+
 const navLinks  =[
   {
     text: 'Accueil',
@@ -24,8 +25,6 @@ const navLinks  =[
     text: 'Contact',
     path: '/Contact'
   }
-
-
 
 ]
 
@@ -45,6 +44,7 @@ function App() {
             <Service path="/Service"/>
             <Contact path="/Contact"/>
     </Router>
+      
       </div>
     
   );
