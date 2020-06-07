@@ -27,6 +27,8 @@ function Conseil (props){
             <h1>Conseil</h1>
             <Row>
                 <Colum span="3">
+
+                    
 Pour commencer, nous allons construire exactement la même grille, comme je l'ai vu dans la dernière section:
 Il aura douze colonnes possibles
 Une colonne peut s'étendre sur la largeur de 1 à 12 colonnes.

@@ -6,7 +6,7 @@ import styled from 'styled-components'
 const Colum =   styled.h6`
 
     @media only  screen and (max-width: 768px){
-      display: inline;
+      display: none;
       padding-left:0;
       font-size:0.7em;
       color:Orchid;
