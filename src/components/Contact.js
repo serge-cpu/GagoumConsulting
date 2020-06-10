@@ -93,9 +93,9 @@ function Contact () {
                     </StyleError>
                     <StyleButon type = "submit" >Send</StyleButon>
                 </StyleForm>
-                Contacter Ngagoum Consulting
+                Contacter ?????
                 <p>
-                    <h2>Tél: (+237) 690678660</h2>
+                    <h2>Tél: (+237) .....</h2>
 
                 </p>
             </wrapper>

@@ -8,7 +8,7 @@ import {Jumbotron, Container} from 'react-bootstrap'
 const Imagenavi = () => (             
         <Jumbotron fluid>
           <Container>
-            <h1>Ngagoum Consulting</h1>
+            <h1>????????????????????</h1>
             <p>
               Entreprise de prestation de service , de conseil , d'audit en matiere de comptabilité 
             </p>
